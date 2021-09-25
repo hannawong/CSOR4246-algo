@@ -20,7 +20,7 @@
 
 - 路径：
 
-  - path: $(x_1,x_2..x_n)$ such that consecutive vertex are adjacent
+  - path: <img src="http://chart.googleapis.com/chart?cht=tx&chl= (x_1,x_2...x_n)" style="border:none;"> such that consecutive vertex are adjacent
   - simple path: all the vertex are distinct
   - simple cycle: a simple path that ends where it starts
 
